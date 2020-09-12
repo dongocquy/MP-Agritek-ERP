@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="BienHieuCongTy2">
+  <ActionDesign>
+    <Actions>
+      <Action Id="ImportWizardWinActionId" Caption="Nhập dữ liệu từ Excel..." />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyRole" IsCloneable="True" />
+  </BOModel>
+  <NavigationItems NavigationStyle="NavBar" DefaultChildItemsDisplayStyle="List">
+    <Items>
+      <Item Id="Lot Management">
+        <Items>
+          <Item Id="LotNumbers_ListView" ViewId="LotNumbers_ListView" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options Skin="Visual Studio 2013 Blue" UIType="TabbedMDI" FormStyle="Ribbon">
+    <RibbonOptions RibbonControlStyle="OfficeUniversal" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="ImportWizardModule" Version="17.1.6.6" IsNewNode="True" />
+    <SchemaModule Name="ImportWizardWindowsFormsModule" Version="17.1.6.6" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerWindowsFormsModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="17.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="17.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
