@@ -1,3 +1,7 @@
+MP-Agritek.Win.exe.config
+MP-Agritek.Win.vshost.exe
+MP-Agritek.Win.vshost.exe.config
+MP-Agritek.Win.vshost.exe.manifest
 *.log
 System.*.dll
 VietRauERPUpdater.exe
