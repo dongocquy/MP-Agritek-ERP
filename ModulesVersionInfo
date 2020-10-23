@@ -17,7 +17,11 @@
 \StateMachineModule	17.1.6.0
 \TreeListEditorsModuleBase	17.1.6.0
 \ViewVariantsModule	17.1.6.0
+<<<<<<< HEAD
 \VietRauModule	1.0.7591.11253
+=======
+\VietRauModule	1.0.7572.31745
+>>>>>>> 4664a8f1d547f0fddbfbb0557bc48b82da519b71
 \ChartWindowsFormsModule	17.1.6.0
 \DashboardsWindowsFormsModule	17.1.6.0
 \FileAttachmentsWindowsFormsModule	17.1.6.0
@@ -33,5 +37,9 @@
 \ImportWizardModule	17.1.6.6
 \ImportWizardWindowsFormsModule	17.1.6.6
 \WizardUIWindowsFormsModule	17.1.6.6
+<<<<<<< HEAD
 \VietRauWindowsFormsModule	1.0.7591.11257
+=======
+\VietRauWindowsFormsModule	1.0.7572.31746
+>>>>>>> 4664a8f1d547f0fddbfbb0557bc48b82da519b71
 \SecurityModule	17.1.6.0
